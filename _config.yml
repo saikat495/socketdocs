@@ -17,7 +17,7 @@ title: "Socket Docs"
 description: "Socket Documentation"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://socketdocs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: # for github-metadata
+repository: socketdocs.github.io # for github-metadata
 
 permalink: pretty
 
