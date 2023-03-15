@@ -40,7 +40,7 @@ On Socket, Networks are built through communities based on values and Trust.
 
 ## Currency
 
-**Buxx** is the native cryptocurrency of Socket.  
+**Buxx** is the native cryptocurrency of Socket. The Buxx also provides economic stability on Socket network.  
 
 
 ##### How to Earn Buxx 
@@ -50,3 +50,7 @@ The user can earn Buxx by actively interacting on Socket.  The more the activity
 ## Identity
 
 ## Communities
+A community is a set of people with common interests / values / goals. 
+
+The City community is a default community based on the geo fence. Hence, every user will be a member of City community based on his geo location. 
+{: note.}
