@@ -48,6 +48,7 @@ On Socket, Networks are built through communities based on values and Trust.
 The user can earn Buxx by actively interacting on Socket.  The more the activity, the more you earn. 
 
 ## Identity
+This is the profile details of an individual / community. This acts as the passport to enter any community / make any transaction on Socket.
 
 ## Communities
 A community is a set of people having common interests / values / goals. 
