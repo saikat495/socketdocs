@@ -44,14 +44,18 @@ Current social networks have eroded trust in society. We believe, the right to p
 
 
 ##### How to Earn Buxx 
-
 The user can earn Buxx by actively interacting on Socket.  The more the activity, the more you earn. 
 
 ## Identity
+
 This is the profile details of an individual / community. This acts as the passport to enter any community / make any transaction on Socket.
 
 ## Communities
-A community is a set of people having common interests / values / goals. 
 
+A community is a set of people having common interests / values / goals. 
 The City community is a default community based on the geo fence. Hence, every user will be a member of City community based on his geo location. 
+
+## Safety
+
+On Socket, you own your data, we cannot censor you, we cannot deplatform you.
 {: note.}
