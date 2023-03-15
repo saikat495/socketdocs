@@ -9,7 +9,7 @@ permalink: docs/overview
 # Overview
 {: .no_toc }
  
-CSS overview classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts.
+CSS overview classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts. This is a new addition. 
 {: .fs-6 .fw-300 }
 
 {: .note }
