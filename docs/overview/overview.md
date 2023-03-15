@@ -15,7 +15,7 @@ permalink: docs/overview
 
 {: .fs-6 .fw-300 }
 
-Socket - your connection to the world
+## Socket - your connection to the world.
 Socket is a block chain based, decentralized social network, built around strict privacy rules.
 Your identity is owned by you and verified by people you trust. We cannot censor you, we cannot deplatform you.
 {: .note }
