@@ -40,7 +40,11 @@ On Socket, Networks are built through communities based on values and Trust.
 
 ## Currency
 
-Buxx is the native currency of Socket.
+Buxx is the native cryptocurrency of Socket.  
+
+#### How to Earn Buxx :
+
+The user can earn Buxx by actively interacting on Socket.  The more the activity, the more you earn. 
 
 ## Identity
 
