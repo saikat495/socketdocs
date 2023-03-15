@@ -16,9 +16,9 @@ permalink: docs/overview
 {: .fs-6 .fw-300 }
 
 Socket - your connection to the world
-{: .note }
 Socket is a block chain based, decentralized social network, built around strict privacy rules.
 Your identity is owned by you and verified by people you trust. We cannot censor you, we cannot deplatform you.
+{: .note }
 
 Create communities and setup your own rules of conduct. We are not the moral police.
 The world of Socket runs on the crypto currency Buxx. As you do good karma, you are rewarded with Buxx.
