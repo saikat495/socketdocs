@@ -9,7 +9,9 @@ permalink: docs/overview
 # Overview
 {: .no_toc }
  
-CSS overview classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts. This is a new addition.
+## Socket - Your connection to the world
+
+
 {: .fs-6 .fw-300 }
 
 {: .note }
@@ -20,9 +22,9 @@ Create communities and setup your own rules of conduct. We are not the moral pol
 The world of Socket runs on the crypto currency Buxx. As you do good karma, you are rewarded with Buxx.
 Your connection to Humanity. OR Connecting humanity with Trust.
 
-## Network
+## Socket Network
 
-## Currency
+## Buxx
 
 ## Identity
 
