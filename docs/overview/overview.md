@@ -36,7 +36,7 @@ Unlike centralised model, blockchain technology eliminates risk of data being st
 
 ## Network
 
-On Socket, Networks are built through communities based on values and Trust.
+Current social networks have eroded trust in society. We believe, the right to privacy is absolute. On Socket, Networks are built through communities based on values and Trust. ie., Your device, your safety, your trust, and your rules.
 
 ## Currency
 
