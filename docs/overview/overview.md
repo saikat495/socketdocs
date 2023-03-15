@@ -36,6 +36,8 @@ Unlike centralised model, blockchain technology eliminates risk of data being st
 
 ## Network
 
+On Socket Network, communities are built based on values and Trust.
+
 ## Currency
 
 ## Identity
