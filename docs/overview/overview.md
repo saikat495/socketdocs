@@ -8,6 +8,7 @@ permalink: docs/overview
  
 # Overview
 {: .no_toc }
+
  
 ## Socket - Your connection to the world
 
@@ -22,9 +23,14 @@ Create communities and setup your own rules of conduct. We are not the moral pol
 The world of Socket runs on the crypto currency Buxx. As you do good karma, you are rewarded with Buxx.
 Your connection to Humanity. OR Connecting humanity with Trust.
 
-## Socket Network
 
-## Buxx
+### What is a Blockchain?
+
+Blockchain is a distributed database or a ledger which is shared among the computer nodes. It plays a crucial role in cryptocurrency to maintain & secure decentralised transactions.
+
+## Network
+
+## Currency
 
 ## Identity
 
