@@ -28,6 +28,13 @@ Your connection to Humanity. OR Connecting humanity with Trust.
 
 Blockchain is a distributed database or a ledger which is shared among the computer nodes. It plays a crucial role in cryptocurrency to maintain & secure decentralised transactions.
 
+
+### What is decentralization ?
+
+Unlike centralised model, blockchain technology eliminates risk of data being stored with one authority. Blockchain being a decentralised model uses data transferring on ad hoc basis & distributed networking.
+
+
+
 ## Network
 
 ## Currency
