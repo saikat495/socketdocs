@@ -13,7 +13,7 @@ permalink: docs/overview
 ## Socket - Your connection to the world
 
 
-{: .fs-26 .fw-300 }
+{: .fs-6 .fw-300 }
 Socket is a block chain based, decentralized social network, built around strict privacy rules.
 Your identity is owned by you and verified by people you trust. We cannot censor you, we cannot deplatform you.
 {: .note }
@@ -39,6 +39,8 @@ Unlike centralised model, blockchain technology eliminates risk of data being st
 On Socket, Networks are built through communities based on values and Trust.
 
 ## Currency
+
+Buxx is the native currency of Socket.
 
 ## Identity
 
