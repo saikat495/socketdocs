@@ -55,5 +55,5 @@ The City community is a default community based on the geo fence. Hence, every u
 
 ## Safety
 
-On Socket, you own your data, we cannot censor you, we cannot deplatform you.
+Privacy, Safety and Trust are our priorities. On Socket, you own your data, we cannot censor you, we cannot deplatform you. You can choose your trust-worty as your guardian who can help you to restore / recover your account. No one, including us, can have any access or control on your account. 
 {: note.}
