@@ -41,8 +41,6 @@ Current social networks have eroded trust in society. We believe, the right to p
 ## Currency
 
 **Buxx** is the native cryptocurrency of Socket. The Buxx also provides economic stability on Socket network.  
-
-
 ##### How to Earn Buxx 
 The user can earn Buxx by actively interacting on Socket.  The more the activity, the more you earn. 
 
