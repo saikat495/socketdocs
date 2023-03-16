@@ -12,12 +12,14 @@ permalink: docs/communities
 {: .fs-26 .fw-100 }
 A community is created by a set of people having common interests / values / goals. 
 
-Basically there are two type of communities.
+Essentially on Socket network, communities are based on two types :
 
 
 ### 1. Personal Community:
 
-This is also known as the private community. You can control the users of this community as to who can join or who cannot join this community, hence the name.
+A personal community is for an individual (adult). This is where a user sets their dear ones & trusted people in their network as guardians & they even start their own personal blog. 
+
+Based on the type, every community, be it Personal or Shared has different types of apps. As we've mentioned in the overview section we strictly value your privacy. Hence Settings play a crucial role & in Personal community this is where the users control the visibility of fields in their profile page to public
 
 
 ### 2. Shared Community:
