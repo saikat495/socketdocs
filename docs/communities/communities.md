@@ -22,6 +22,6 @@ This is also known as the private community. You can control the users of this c
 
 ### 2. Shared Community:
 
-This is also known as public community. The City community is an example for the shared community. A City community is a default community based on the geo fence. Hence, every user will be a member of the City community based on the user's geo location. 
+This is also known as public community. The City community is an example for the shared community. A City community is a default community based on the geo fence. Hence, every user will be a member of the City community, in that particular city, based on the user's geo location. 
 
 
