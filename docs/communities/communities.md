@@ -14,7 +14,7 @@ On Socket network, all users registering for the first time will be a part of th
 
 ### How is a City Community created ? 
 
-Socket uses the location of each user to automatically create a City community.
+Socket uses the location of each user to automatically create a City Community.
 
 ### How does the CIty Community work ?
 
