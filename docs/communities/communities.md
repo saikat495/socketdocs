@@ -12,11 +12,11 @@ permalink: docs/communities
 {: .fs-26 .fw-100 }
 On Socket network, all users registering for the first time will be a part of their respective **City Communities**. 
 
-### How are City Communities created ? 
+### How are the City Communities created ? 
 
 Socket uses the location of each user to automatically create a City Community.
 
-### How does the City Communities work ?
+### How does City Communities work ?
 
 As mentioned above Socket uses the users location, so once a paritcular City Community is created, automatically other users who registers to Socket from the same GEO fence will be part of that particular City Community. 
 On Socket network this is how each City Community is established. Users should also note that GEO Communities (i.e City Communities) are extremely unique. 
