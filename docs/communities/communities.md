@@ -13,12 +13,14 @@ permalink: docs/communities
 A community is created by a set of people having common interests / values / goals. 
 
 Basically there are two type of communities.
-###1. Personal Community:
+
+
+### 1. Personal Community:
 
 This is also known as the private community. You can control the users of this community as to who can join or who cannot join this community, hence the name.
 
 
-###2. Shared Community:
+### 2. Shared Community:
 
 This is also known as public community. The City community is an example for the shared community. A City community is a default community based on the geo fence. Hence, every user will be a member of the City community based on the user's geo location. 
 
