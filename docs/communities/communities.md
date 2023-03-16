@@ -18,8 +18,8 @@ Socket uses the location of each user to automatically create a City Community.
 
 ### How does the CIty Community work ?
 
-As mentioned above, Socket uses the users location, so once a paritcular City Community is created, automatically other users who registers to Socket from the same GEO fence will be a part of that particular City Community. 
-On Socket network this is how each City Community is established. Users shoudld also note that GEO Communities i.e CIty Communities are extremely unique. 
+As mentioned above Socket uses the users location, so once a paritcular City Community is created, automatically other users who registers to Socket from the same GEO fence will be part of that particular City Community. 
+On Socket network this is how each City Community is established. Users should also note that GEO Communities i.e CIty Communities are extremely unique. 
 
 That said, on Socket network communities are based on two types :
 
