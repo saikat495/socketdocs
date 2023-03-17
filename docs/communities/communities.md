@@ -9,7 +9,7 @@ permalink: docs/communities
 # Communities
 {: .no_toc }
 
-How connected are you to your City ? Let's be honest, everyone has that special attachment towards their City, especially if it's their hometown. On Socket network, we've aimed to make sure to connect people from the same city, bring the city to life & strenghten that bond. Well, it's not just Cities, users can build communities for their neighbourhood, family & friends, fans, business, educational institutions & many more. This is not all, every community is governed by it's own **tokens**. 
+How connected do you feel with your City ? Let's be honest, everyone has that special attachment towards their City, especially if it's their hometown. On Socket network, we've aimed to make sure to connect people from the same city, bring the city to life & strenghten that bond. Well, it's not just Cities, users can build communities for their neighbourhood, family & friends, fans, business, educational institutions & many more. This is not all, every community is governed by it's own **tokens**. 
 
 {: .fs-26 .fw-100 }
 On Socket network, all users registering for the first time will be a part of their respective **City Communities**. 
