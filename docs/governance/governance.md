@@ -27,5 +27,19 @@ On Socket network, Tokens represent :
 - Discounts & Incentives offered to the users by a business
 - And more
 
+## How does Tokens work on Socket network ?
 
- 
+On Socket network, upon creating a community, a default Token gets created in the treasury automatically by the system. This means every city has a designated **CITY TOKEN**. All the users are rewarded by a small portion of City Tokens as soon as they enter their City Community for the first time. Again, not everybody has access to the main treasury & only certain roles inside the community will be able to see & access it. In the aforementioned part of this page we talked about governance. You maybe wondering if only certain people can see it, where's the so called governance aspect. That's where elections play a huge role. 
+
+Any transaction initiated by the person having access to the treasury will automatically trigger an election to all **TOKEN HOLDERS** inside that community. Also, the Tokens have different voting rights & powers. This also classfies the voting into different types (Quadratic, Conviction & Simple voting) based on the community type. 
+
+
+## How are roles occupied in City Community ?
+
+There are roles reserved inside each community & one of them is "Mayor". Mayor will have access to the treasury inside the city community & any transaction initiated via treasury by the mayor will trigger an election to all the token holders inside that city communtiy. It is up to the people to nominate, elect or impeach the mayor of a particular city community.  
+
+
+
+
+
+
