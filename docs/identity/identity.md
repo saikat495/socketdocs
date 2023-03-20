@@ -8,7 +8,9 @@ permalink: docs/identity
 
 # Identity
 {: .no_toc }
-Identity is an unique set of characters of an individual or a community through wihich the person or the community is identified/recognised. The identity can based on three attributes, 
+{: .fs-26 .fw-100 } Identity is an unique set of characters of an individual or a community through wihich the person or the community is identified/recognised.  {: .note }
+
+The identity can based on three attributes, 
 
 The identity of an individual or a community is through wihich the person or the community is identified/recognised. The identity is based on three attributes, 
 *1) Inherrited attributes :* Height, Weight, colour etc of an individual or the size of the office space etc.,
