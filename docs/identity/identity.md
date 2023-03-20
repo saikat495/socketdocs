@@ -9,14 +9,14 @@ permalink: docs/identity
 # Identity
 {: .no_toc }
 
-## Identity
+
 
 {: .fs-26 .fw-100 } 
 Identity is an unique set of characters of an individual or a community through wihich the person or the community is identified/recognised.
 {: .note }
 
 
-The identity can based on three attributes, 
+The identity can be based on three attributes, 
 
 The identity of an individual or a community is through wihich the person or the community is identified/recognised. The identity is based on three attributes, 
 
@@ -26,7 +26,7 @@ The identity of an individual or a community is through wihich the person or the
 
 *3) Cumulated attributes :*  Here the attribute of an individual or of a community is added up over a period of time. 
 
-In general, identity often refers to a person's / a community's unique individuality, meaning how they view themself as compared to other people/ community, based on the attributes / charecteristics which identifies them in standing out from other individuals or communities. 
+In general, identity often refers to a person's / a community's unique individuality, meaning how they view themself as compared to other people/ community, based on the attributes / characteristics which identifies them in standing out from other individuals or communities. 
 
 
 The identity acts as a passport (Self declared but verified and authenticated by others) to enter different communities or to get in contact with others. 
