@@ -9,8 +9,12 @@ permalink: docs/identity
 # Identity
 {: .no_toc }
 
+## Identity
+
 {: .fs-26 .fw-100 } 
-Identity is an unique set of characters of an individual or a community through wihich the person or the community is identified/recognised.{: .note }
+Identity is an unique set of characters of an individual or a community through wihich the person or the community is identified/recognised.
+{: .note }
+
 
 The identity can based on three attributes, 
 
