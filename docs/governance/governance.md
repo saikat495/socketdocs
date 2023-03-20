@@ -16,6 +16,7 @@ Socket is built & designed to do all of it.
 
 ## Introduction
 {: .fs-26 .fw-100 }
+
 What is a Token on Socket network ?
 
 On Socket network, Tokens represent : 
