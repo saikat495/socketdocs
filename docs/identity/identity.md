@@ -36,7 +36,7 @@ Identify in a gevernment community is to be verified and authenticated by the go
 
 Because of the multilevel verification and authentication by others, it makes the socket identity a unique and powerful feature which is more reliable and trustworthy in nature. 
 
-In socket, different Apps require different parts of the identities. 
+In socket, different Apps require different parts of the identities. Entering a community with certain profile information as sought by the admin of that community has to be addressed individually on a case to case basis and in agreement with the profile owner as opted in settings.
 
 For example, if one is looking for a dating partner and the person does not want to disclose his basic identity, then while entering the dating app, it asks for choice of his/her name as to be shown to the other users/ proposed partners of the dating app. The fields like address, education, experience, phone number etc are kept hidden from the other users of the dating app. This is to maintain the user's confidentiality and to safegaurd the real identity of the user as per his/her requirement. 
 
@@ -46,7 +46,13 @@ In ecommerce app, the information on education or the experience of the user are
 
 Hence, based on the requirement of the apps, the profile can be categorized as Personal, Professional, Dating, and Public profiles.
 
-*Persponal Profiles* are visible to the owner alone. Here, there will be additional / personal / confidential / vital informations like height, weight, colour, blood group, Blood Pressure, Drug allergies, shoe size, food preferences, likes and dislikes, habits, etc, which need not be shared with anyone unless required by the owner. 
+*Persponal Profiles* are visible to the owner alone. Here, there will be additional / personal / confidential / vital informations like height, weight, colour, blood group, Blood Pressure, Drug allergies, shoe size, food preferences, likes and dislikes, habits, etc, which need not be shared with anyone unless required by the owner. This profile also contains the demographic details of the owner including the details of his activity on Socket. 
 The *Professional Profiles* contain informations like the real name of the person, address, education, expereince, skills, expertise, awards and accolades won, References, etc which help the person in his professional career.
 The *Dating Profiles* contain very basic informations like the pseudo name of the user (as chosen by him to show to other members of the dating community), Age (may not be the real one), place/location, gender, etc as required by the app.
 The *Public Profile* is required to have an identity in a public community like a City Community, where a nick name, location of the city is shown and all other details are hidden or shown as per the requirement of the user.  
+
+
+
+
+
+
