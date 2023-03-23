@@ -46,11 +46,14 @@ In ecommerce app, the information on education or the experience of the user are
 
 Hence, based on the requirement of the apps, the profile can be categorized as Personal, Professional, Dating, and Public profiles.
 
-*Persponal Profiles* are visible to the owner alone. Here, there will be additional / personal / confidential / vital informations like height, weight, colour, blood group, Blood Pressure, Drug allergies, shoe size, food preferences, likes and dislikes, habits, etc, which need not be shared with anyone unless required by the owner. This profile also contains the demographic details of the owner including the details of his activity on Socket. 
-The *Professional Profiles* contain informations like the real name of the person, address, education, expereince, skills, expertise, awards and accolades won, References, etc which help the person in his professional career.
-The *Dating Profiles* contain very basic informations like the pseudo name of the user (as chosen by him to show to other members of the dating community), Age (may not be the real one), place/location, gender, etc as required by the app.
-The *Public Profile* is required to have an identity in a public community like a City Community, where a nick name, location of the city is shown and all other details are hidden or shown as per the requirement of the user.  
+**Personal Profiles** are visible to the owner alone. Here, there will be additional / personal / confidential / vital informations like height, weight, colour, blood group, Blood Pressure, Drug allergies, shoe size, food preferences, likes and dislikes, habits, etc, which need not be shared with anyone unless required by the owner. This profile also contains the demographic details of the owner including the details of his activity on Socket. 
+The **Professional Profiles** contain informations like the real name of the person, address, education, expereince, skills, expertise, awards and accolades won, References, etc which help the person in his professional career.
+The **Dating Profiles** contain very basic informations like the pseudo name of the user (as chosen by him to show to other members of the dating community), Age (may not be the real one), place/location, gender, etc as required by the app.
+The **Public Profile** is required to have an identity in a public community like a City Community, where a nick name, location of the city is shown and all other details are hidden or shown as per the requirement of the user.  
 
+**Profile Rating** is the feedback rating given to the person's profile by the other members of the Socket community. 
+
+**Influece Level** is calculated based on the quality of the tweets, number of responses to it, and who all responds to it. The more quality of the message is, the more number of responses one gets, and more prominent or influential people responds to the message. This increases the influence level of the individual dramatically. 
 
 
 
