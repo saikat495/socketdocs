@@ -60,7 +60,7 @@ Let's say when a user is travelling from point A to point E. During the commute,
 
 We live in a world where literally everything is disconnected and so are the apps on social media. On Socket network, Communities based on their types have different apps inside & those apps are connected with each other. It's as if the apps are talking to each other based on the user's activity. This enables the users to not only keep track of their activities, but also find and discover other users with similar interests and values. Basically each community is formed with a set of people having similar values and interests. 
 
-On Socket network, we use smart matchmaking algorithm to help people discover communities and other users and give them exactly what they are looking for based on the **Demographics**. The technology adopted on Socket network will build a unique bond where users feel like every city they visit   
+On Socket network, we use smart matchmaking algorithm to help people discover communities and other users with similar values and also give them exactly what they are looking for based on the **Demographics**. The technology adopted on Socket network will help users in building a unique relationship with all the places they travel and differnt people they meet.    
 
 
 
