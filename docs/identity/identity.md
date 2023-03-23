@@ -52,7 +52,7 @@ The **Professional Profiles** contain informations like the real name of the per
 
 The **Dating Profiles** contain very basic informations like the pseudo name of the user (as chosen by him to show to other members of the dating community), Age (may not be the real one), place/location, gender, etc as required by the app.
 
-The **Public Profile** is required to have an identity in a public community like a City Community, where a nick name, location of the city is shown and all other details are hidden or shown as per the requirement of the user.  
+The **Public Profile** is required to have an identity in a public community like a City Community, where a nick name, location of the city is shown and all other details are hidden or shown as per the approval of the user.  
 
 **Profile Rating** is the feedback rating given to the person's profile by the other members of the Socket community. 
 
