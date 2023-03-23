@@ -56,7 +56,7 @@ The **Public Profile** is required to have an identity in a public community lik
 
 **Profile Rating** is the feedback rating given to the person's profile by the other members of the Socket community. 
 
-**Influece Level** is calculated based on the quality of the tweets, number of responses to it, and who all responds to it. The more quality of the message is, the more number of responses one gets, and more prominent or influential people responds to the message. This increases the influence level of the individual dramatically. 
+**Influence Level** is calculated based on the quality of the tweets, number of responses to it, and who all responds to it. The more quality of the message is, the more number of responses one gets, and more prominent or influential people responds to the message. This increases the influence level of the individual dramatically. 
 
 
 
