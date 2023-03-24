@@ -98,7 +98,9 @@ This can be easily set on the connect's profile.  Click on the profile and click
 22. Neighbor
 23. Custom
 
+{: .fs-26 .fw-100 } 
 Please note that the relationship you setup can be changed by you anytime when you are in your account and can be done any number of times. 
+{: .note }
 
 Also note that the relationship can be reciprocal or cannot be reciprocal between the two contacts. Example for non reciprocal relationship can be, One could be Boss and the other could be subordinate, One could be Boyfriend and the other one could be Girlfriend.  But sometimes, it can be reciprocal. For example both could be Friends to each other, part of the same Family, each other's Spouse, Each other's Colleague etc.
 
@@ -120,4 +122,6 @@ If you have lost the credentials of the account and are trying to restore the pr
 6. The guardians will enter the OTP and your account handle (It is mandatory to remember your account handle as it is unique for each account).
 7. Once all the 3 guardians enter the OTP and your account handle, your account is restored on your new device. 
 
+{: .fs-26 .fw-100 } 
 Please note that  unless you remember your unique account handle and without setting 3 "Guardians", you will not be able to restore your account.
+{: .note }
