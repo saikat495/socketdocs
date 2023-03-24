@@ -89,7 +89,7 @@ Like mentioned above, all the apps are connected with each other. However, there
 
  Now let's take an in - depth look at each of these 
 
-- Tasks : The tasks app is a default app for all types of communities. The users can create projects and sub divide further tasks inside the projects and assign it other users. All the tasks can be assigned and designated on hierarchy basis. Tasks app on Socket network is extremely different compared to other apps out there. On Socket network, the admin of the task can set duration within which the tasks has to be marked done. In case if a particular task is not marked as done before the timeline, it automatically changes the state of that task from in progress to delayed.
+- Tasks : Tasks and roles app are interlinked with each other. The tasks app is a default app for all types of communities. The users can create projects and sub divide further tasks inside the projects and assign it to other users. All the tasks can be assigned and designated on hierarchy basis. Tasks app on Socket network is extremely different compared to other apps out there. On Socket network, the admin of the task can set duration within which the tasks has to be marked done. In case if a particular task is not marked as done before the timeline, it automatically changes the state of that task from in progress to delayed.
 
 Users are incentivised in Buxx for marking tasks as done and finishing them within the stipulated duration. Every task comes with different tiers of rewards based on its priority and complexity. The admin and even the users can track their progress from the beginning or even the progress of a standalone task. All the progress can be viewed on the charts and graphs and the users can compare the performance the same. 
 
