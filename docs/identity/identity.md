@@ -36,7 +36,7 @@ It consists of three types of fields namely, 1) Mandatory Field, Optional Field 
 
 **3) Verified Field :**   This is very important field. This can be Mandatory or optional field, but is verified by the concerned person, department, of company voching for the authenticity of the information given here. Example, the experience as shown here can be verified by the concerned previous employer, the education shown here could be verified by the University / college itself to authenticate the education level, the email ID could be verified by sending an OTP to the declared email and verifying the same for confirmation. This saves the time for verification for many apps. For example, for a job seeker, when applied to the vacancy, the jpb provider can consider the verified fields like education, or experience as authenticated ones and no further verification would be required.
 
-Note that Identities and Profiles are the key areas of discovery.
+{: .fs-26 .fw-100 }Note that Identities and Profiles are the key areas of discovery.{: .note }
 
 The identity acts as a passport (Self declared but verified and authenticated by others) to enter different communities or to get in contact with others. 
 Community specific identity is granted by community and cannot be used elsewhere.
@@ -70,7 +70,7 @@ The **Public Profile** is required to have an identity in a public community lik
 
 ##Setting relationship : 
 
-Itis very important to set relationship with each (atleast some) of the contacts one whould have developed to make it easy to identify and seperate them based on these relationships. 
+It is very important to set relationship with each (atleast some) of the contacts one whould have developed to make it easy to identify and seperate them based on these relationships. 
 
 This can be easily set on the connect's profile.  Click on the profile and click on the "add relationship" button available at the end of the profile page. One can select the relationship (from the dropdown list) you have with that contact/user. This would make it easier to sort according to the selected relationship. There are 23 such type of relationships in the dropdown list, as given below 
 
@@ -99,7 +99,7 @@ This can be easily set on the connect's profile.  Click on the profile and click
 23. Custom
 
 {: .fs-26 .fw-100 } 
-Please note that the relationship you setup can be changed by you anytime when you are in your account and can be done any number of times. 
+Please note that the relationship you setup can be changed by you anytime when you are in your account and can be changed any number of times. 
 {: .note }
 
 Also note that the relationship can be reciprocal or cannot be reciprocal between the two contacts. Example for non reciprocal relationship can be, One could be Boss and the other could be subordinate, One could be Boyfriend and the other one could be Girlfriend.  But sometimes, it can be reciprocal. For example both could be Friends to each other, part of the same Family, each other's Spouse, Each other's Colleague etc.
