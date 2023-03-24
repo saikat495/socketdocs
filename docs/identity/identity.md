@@ -68,7 +68,7 @@ The **Public Profile** is required to have an identity in a public community lik
 **Influence Level** is calculated based on the quality of the tweets, number of responses to it, and who all responds to it. The more quality of the message is, the more number of responses one gets, and more prominent or influential people responds to the message. This increases the influence level of the individual dramatically. 
 
 
-##Setting relationship : 
+## Setting relationship : 
 
 It is very important to set relationship with each (atleast some) of the contacts one whould have developed to make it easy to identify and seperate them based on these relationships. 
 
@@ -108,10 +108,10 @@ Socket has one special relationship known as "**Guardian**".  This is special be
 can help the user to restore his account. For example, if one looses the account credentials and not able to login to the account, or has lost the phone and could not trace it, but needs to log into the account using a different/new phone, in such situations, the "Guardian" helps the user to "restore" (get back to) his account without loosing any previous informations. Please note that you can change the guardian relationship any time. 
 
 
-###How many Guardians can you select ?
+### How many Guardians can you select ?
 One can select upto 6 Guardians in an account. However, only 3 among the 6 guardians are required for restoring the account. So one should be very careful in selecting the Guardians. 
 
-###How to restore the Account?
+### How to restore the Account?
 If you have lost the credentials of the account and are trying to restore the previous account, then do the following steps
 
 1. Download Socket to the new device on which you want to restore the account.
