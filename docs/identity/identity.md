@@ -28,6 +28,15 @@ The identity of an individual or a community is through wihich the person or the
 
 In general, identity often refers to a person's / a community's unique individuality, meaning how they view themself as compared to other people/ community, based on the attributes / characteristics which identifies them in standing out from other individuals or communities. 
 
+It consists of three types of fields namely, 1) Mandatory Field, Optional Field and Verified Field. 
+
+**1) Mandatory Field :** This is a must fill field and one has to fill the details mandatorily.  This is essential to sign up and enter the Socket app. Example, Name, phone number, etc.
+
+**2) Optional Field :**  This is an optional field and one can choose not fill or give any details in this field. This is not mandatory to fill these fields to sign up or enter the Socket app. Education, experience, address, email ID etc.,
+
+**3) Verified Field :**   This is very important field. This can be Mandatory or optional field, but is verified by the concerned person, department, of company voching for the authenticity of the information given here. Example, the experience as shown here can be verified by the concerned previous employer, the education shown here could be verified by the University / college itself to authenticate the education level, the email ID could be verified by sending an OTP to the declared email and verifying the same for confirmation. This saves the time for verification for many apps. For example, for a job seeker, when applied to the vacancy, the jpb provider can consider the verified fields like education, or experience as authenticated ones and no further verification would be required.
+
+Note that Identities and Profiles are the key areas of discovery.
 
 The identity acts as a passport (Self declared but verified and authenticated by others) to enter different communities or to get in contact with others. 
 Community specific identity is granted by community and cannot be used elsewhere.
@@ -36,7 +45,7 @@ Identify in a gevernment community is to be verified and authenticated by the go
 
 Because of the multilevel verification and authentication by others, it makes the socket identity a unique and powerful feature which is more reliable and trustworthy in nature. 
 
-In socket, different Apps require different parts of the identities. Entering a community with certain profile information as sought by the admin of that community has to be addressed individually on a case to case basis and in agreement with the profile owner as opted in settings.
+In socket, different Apps require different parts of the identities. Entering a community with certain profile information as sought by the admin of that community has to be addressed individually on a case to case basis and in agreement with the profile owner as opted in settings.  In settings, on  security point of view, if user do not wish to give some of the information while entering the community, tt is entirely upto the user's willingness and discretion.
 
 For example, if one is looking for a dating partner and the person does not want to disclose his basic identity, then while entering the dating app, it asks for choice of his/her name as to be shown to the other users/ proposed partners of the dating app. The fields like address, education, experience, phone number etc are kept hidden from the other users of the dating app. This is to maintain the user's confidentiality and to safegaurd the real identity of the user as per his/her requirement. 
 
@@ -59,6 +68,56 @@ The **Public Profile** is required to have an identity in a public community lik
 **Influence Level** is calculated based on the quality of the tweets, number of responses to it, and who all responds to it. The more quality of the message is, the more number of responses one gets, and more prominent or influential people responds to the message. This increases the influence level of the individual dramatically. 
 
 
+##Setting relationship : 
+
+Itis very important to set relationship with each (atleast some) of the contacts one whould have developed to make it easy to identify and seperate them based on these relationships. 
+
+This can be easily set on the connect's profile.  Click on the profile and click on the "add relationship" button available at the end of the profile page. One can select the relationship (from the dropdown list) you have with that contact/user. This would make it easier to sort according to the selected relationship. There are 23 such type of relationships in the dropdown list, as given below 
+
+1. Acquantance
+2. Creator
+3. Manager
+4. viewer
+5. Admin
+6. Approver
+7. Applicant
+8. Moderator
+9. Connection
+10. Follower
+11. Guardian
+12. Family
+13. Friend
+14. Colleague
+15. Boss
+16. Subordinate
+17. Classmate
+18. Spouse
+19. Significant Other
+20. Girl Friend
+21. Boy Friend
+22. Neighbor
+23. Custom
+
+Please note that the relationship you setup can be changed by you anytime when you are in your account and can be done any number of times. 
+
+Also note that the relationship can be reciprocal or cannot be reciprocal between the two contacts. Example for non reciprocal relationship can be, One could be Boss and the other could be subordinate, One could be Boyfriend and the other one could be Girlfriend.  But sometimes, it can be reciprocal. For example both could be Friends to each other, part of the same Family, each other's Spouse, Each other's Colleague etc.
+
+Socket has one special relationship known as "**Guardian**".  This is special because of it's special powers it carry with it. The 'Guardians'
+can help the user to restore his account. For example, if one looses the account credentials and not able to login to the account, or has lost the phone and could not trace it, but needs to log into the account using a different/new phone, in such situations, the "Guardian" helps the user to "restore" (get back to) his account without loosing any previous informations. Please note that you can change the guardian relationship any time. 
 
 
+###How many Guardians can you select ?
+One can select upto 6 Guardians in an account. However, only 3 among the 6 guardians are required for restoring the account. So one should be very careful in selecting the Guardians. 
 
+###How to restore the Account?
+If you have lost the credentials of the account and are trying to restore the previous account, then do the following steps
+
+1. Download Socket to the new device on which you want to restore the account.
+2. After installing the Socket app, open the app and click on the "Restore" button.
+3. An OTP is generated on your system. 
+4. An alert is sent to the guardian about your restoring account
+5. Share this OTP with any of your 3 guardians (People whom you had already set the relationship as Guardians)
+6. The guardians will enter the OTP and your account handle (It is mandatory to remember your account handle as it is unique for each account).
+7. Once all the 3 guardians enter the OTP and your account handle, your account is restored on your new device. 
+
+Please note that  unless you remember your unique account handle and without setting 3 "Guardians", you will not be able to restore your account.
