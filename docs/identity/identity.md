@@ -36,7 +36,9 @@ It consists of three types of fields namely, 1) Mandatory Field, Optional Field 
 
 **3) Verified Field :**   This is very important field. This can be Mandatory or optional field, but is verified by the concerned person, department, of company voching for the authenticity of the information given here. Example, the experience as shown here can be verified by the concerned previous employer, the education shown here could be verified by the University / college itself to authenticate the education level, the email ID could be verified by sending an OTP to the declared email and verifying the same for confirmation. This saves the time for verification for many apps. For example, for a job seeker, when applied to the vacancy, the jpb provider can consider the verified fields like education, or experience as authenticated ones and no further verification would be required.
 
-{: .fs-26 .fw-100 }Note that Identities and Profiles are the key areas of discovery.{: .note }
+{: .fs-26 .fw-100 } 
+Note that Identities and Profiles are the key areas of discovery. 
+{: .note }
 
 The identity acts as a passport (Self declared but verified and authenticated by others) to enter different communities or to get in contact with others. 
 Community specific identity is granted by community and cannot be used elsewhere.
