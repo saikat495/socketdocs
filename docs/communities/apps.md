@@ -1,3 +1,11 @@
+---
+layout: default
+title: Apps
+nav_order: 1
+has_children: true
+permalink: docs/communities/apps
+---
+
 {: .fs-26 .fw-100 }
 
 Now let's talk about the Apps inside each communities. 
