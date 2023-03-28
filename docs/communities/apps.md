@@ -1,3 +1,4 @@
+{: .fs-26 .fw-100 }
 Now let's talk about the Apps inside each communities. 
 
 Every community has set of Apps which are linked to each other and also acts in a unique way. On Socket network, all the apps are designed as if they  communicate with each other. 
