@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Apps
+parent: Communities
 nav_order: 1
 has_children: true
 permalink: docs/communities/apps
