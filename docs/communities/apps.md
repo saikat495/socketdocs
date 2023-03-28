@@ -36,7 +36,11 @@ Users are incentivised in Buxx for marking tasks as done and finishing them with
 
 - Calendar : The users can create new events, save important meetings, dates and can add all their go to plans on the calendar app and set reminder for the same. There's an option to set start date and end date in case required. An event created on the calandar app can be made publicly viewable or share it with their connections in personal community or in a shared community. This acts as a potential source of discovery by gathering like minded and people with similar interests. 
 
-- Jobs : In the previous sections we've mentioned about the smart matchmaking algorithm implemented on Socket network. 
+- Jobs : In the previous sections we've mentioned about the smart matchmaking algorithm implemented on Socket network. In short Jobs app help in finding the perfect job based on the users skill. If a user is searching for a job and there's a requirement which matches the criteria, automatically the user and the job poster gets an alert for the same. 
+
+In the current world, people seldom think on how to solve the problem of disconnected information between users, but complain about it. On Socket network we've aimed to completely destroy the hollow space that currently exists between demand and supply side. 
+
+- Wallets 
 
 
 
