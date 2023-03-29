@@ -47,12 +47,23 @@ Users are incentivised in Buxx for marking tasks as done and finishing them with
 
 - Jobs : In the previous sections we've mentioned about the smart matchmaking algorithm implemented on Socket network. In short Jobs app help in finding the perfect job based on the users skill. If a user is searching for a job and there's a requirement which matches the criteria, automatically the user and the job poster gets an alert for the same. 
 
-In the current world, people seldom think on how to solve the problem of disconnected information between users, but complain about it. On Socket network we've aimed to completely destroy the hollow space that currently exists between demand and supply side. 
+In the current world, people seldom think on how to solve the problem of disconnected information between users, but rather just complain about it. On Socket network we've aimed to completely destroy the hollow space that currently exists between demand and supply side. 
 
-- Wallets 
+- Wallets : An app that lets users manage their rewards and tokens. For the user, there's a default personal wallet in every shared community. Users can transfer the coins and rewards from shared community to their personal community if they desire to do so.
 
+### What is the significance of wallets ? 
 
+Being a Blockchain based Social network with coin rewards and tokens, wallets play a significantly important role on Socket network. Instead of having one single wallet in the personal community, the user can have multiple wallets in whatever community they are a part of and then transfer the coins and rewards to their personal wallet inside personal community. Multiple wallets concept is adopted to make it easy for people to manage all the tokens and rewards. 
 
+### How does wallets work on Socket network ? 
+
+The users can create as many wallets as they want in both Personal and Shared communities. One thing to note is that, by default every user gets a default personal wallet inside a shared communtiy upon entering. It's entirely upto the user to create more wallets if need be. All the rewards earned at the time of entering a community will directly go to the default wallet created by the system in the designated community. 
+
+There's one thing the users should be aware of, that is, the admin / creator of a shared community should manually go the wallets app and create a designated wallet in the name of the community. This is different from the personal wallets which we spoke about in the above section. Community wallets lets the admin / creator of the community to allocate tokens to the members of that community. Wallets are linked to treasury. {: .note }  
+
+- Treasury : On Socket network, treasury is like the Reserve / Federal bank of any community. Every community has a native token in that name inside the treasury. Not all the users in a shared community have access to the treasury nor can they view the contents inside the treasury. Only the creator / admin / owner of the community can access and handle the treasury. 
+
+- Roles : 
 
 
 
