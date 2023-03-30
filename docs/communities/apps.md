@@ -59,7 +59,7 @@ Being a Blockchain based Social network with coin rewards and tokens, wallets pl
 
 The users can create as many wallets as they want in both Personal and Shared communities. One thing to note is that, by default every user gets a default personal wallet inside a shared communtiy upon entering. It's entirely upto the user to create more wallets if need be. All the rewards earned at the time of entering a community will directly go to the default wallet created by the system in the designated community. 
 
-There's one thing the users should be aware of, that is, the admin / creator of a shared community should manually go the wallets app and create a designated wallet in the name of the community. This is different from the personal wallets which we spoke about in the above section. Community wallets lets the admin / creator of the community to allocate tokens to the members of that community. Wallets are linked to treasury. {:.note }  
+There's one thing the users should be aware of, that is, the admin / creator of a shared community should manually go the wallets app and create a designated wallet in the name of the community. This is different from the personal wallets which we spoke about in the above section. Community wallets lets the admin / creator of the community to allocate tokens to the members of that community. Wallets are linked to treasury. {: .note }
 
 - Treasury : On Socket network, treasury is like the Reserve / Federal bank of any community. Every community has a native token in that name inside the treasury. Not all the users in a shared community have access to the treasury nor can they view the contents inside the treasury. Only the creator / admin / owner of the community can access and handle the treasury. 
 
