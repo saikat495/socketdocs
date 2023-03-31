@@ -64,7 +64,63 @@ There's one thing the users should be aware of, that is, the admin / creator of 
 
 - Treasury : On Socket network, treasury is like the Reserve / Federal bank of any community. Every community has a native token in that name inside the treasury. Not all the users in a shared community have access to the treasury nor can they view the contents inside the treasury. Only the creator / admin / owner of the community can access and handle the treasury. 
 
-- Roles : 
+- Roles : Roles app acts differently in differnt types of community. In a Private shared community, Roles app enables the admin / creator of the community to create a designated role and assign it to the members of that community. Every role has powers as designated to them by the admin / creator of that community. 
+
+Read more about roles **HERE** (Insert quick link to navigate) 
+
+- Relationships: Relationships app are limited to only Personal community and not for Shared communities. The users can set custom relationship(s) with all their connections only inside Personal community. 
+
+### How does Relationships app work on Socket network ? 
+ 
+On Socket network, users will be able to set multiple relationships with their connections. We cannot stress the significance of the Relationships app enough. This is the core aspect of trust on Socket network. Users are mandatorily required to set 6 trustworthy people in their circle as guardians. It is the guardians who plays a very important role in recovering and restoring your Socket account, if you lose access to it. We advice users to set only those people who they trust the most in their circle as their Guardians. The users can set other users as Guardians only if the other user(s) are on Socket. 
+{: .note }
+
+That aside, now let's see other relationship types. 
+
+| Relationships |
+|:------------- |
+| acquaintance  |
+| Creator       | 
+| Manager       | 
+| Guardian      |
+| Custom        | 
+
+Besides Guardians, no other relationships has the access to recover the account. 
+{: .note }
+
+- Identities : 
+
+- Dating : On Socket network, this is not your average dating app. Unlike all other dating apps, we've aimed to make the users life as easy as possible to find the perfect match. A smart matchmaking engine where the algorithm enables the users to find profiles which are best suited after scanning and matching common interests. 
+
+- Checklists : Checklists act like a reminders app and the users can create lists and share it with their connections if they desire to do so. 
+
+- Elections : The core governance and the heart of Socket network lies in the Elections app. 
+
+### How does Elections app work on Socket network ? 
+
+To help you understand about Elections, we highly recommend you read about Treasury, Wallets and Roles apps.
+
+Elections app consists of Elections, Nominations, Candidates, Votes and Results tabs respectively. 
+
+So, Elections app is directly linked with Treasury, Wallets and Roles apps. No other members besides the Admin / Creator or any other members with designated role to access the treasury in a Shared community will be able to see the contents inside the Treasury. Hence, if any of the aforementioned users try to make a transaction specifically from the Treasury, the app automatically triggers an Election to all the **TOKENHOLDERS** inside that Shared community. 
+
+Essentially every user inside a GEO (City Community) is a token holder. When they enter their respective GEO communities, the users are awarded in the City coins, so they automatically become the **TOKENHOLDERS**. In all the City communities, there's a designated role for "Mayor" and only Mayors have access to the treasury. Any transactions coming from that City community's treasury will trigger an Election to all the members inside that City communities. 
+
+Now you maybe wondering how do Mayor occupy their roles ? Simple, the users inside the CIty community will Elect the Mayor to occupy that role. In fact, those users who brings the Mayor to Socket App will be rewarded in BUXX and that user who brought the Mayor will be recognised and rewarded in the that City community. In addition, they'll also increase their influence level in that GEO community.
+
+But, what happens to the previous Mayor who held the Mayor's role, but their term is expiring ? It's the members of that City community who has the ability to Nominate the subsequent candidates for the next term. A Mayor can hold their role for up to 5 years before their term expires. If the Mayor has support from the members of that City community, the users can nominate the same person again.  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
