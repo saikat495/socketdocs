@@ -8,6 +8,15 @@ permalink: docs/communities/roles
 ---
 
 {: .fs-26 .fw-100 }
+### Introduction about Roles on Socket network. 
+
+Every user on Socket network by default occupies a Role. The most common role is **TOKEN HOLDERS ROLE**. The whole of Socket network is built on Privacy, Trust, Roles, Access and Elections. Roles control the power structure within a community. Only certain types of roles can create other roles. 
+{: .note }
+
+Roles are classified into : Delegated role, Elected role, Ticketed role
+
+Delegated roles can be fired and Elected roles need impeachment vote. Users should note Identities can be elected to a role or admin can bestow a role upon an identity. Elected roles can be created by elections. Ticketed roles have expiry. The users must note that Deligated roles have subset of power from deligator role.
+
 
 ### How does Elections app work on Socket network ? 
 
