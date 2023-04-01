@@ -74,8 +74,8 @@ As far as the Mayor's veracity is concered, it will be totally decided by the us
 
 Another scenario where there's already a Mayor and their term is expiring. The users of that City community has the ability to Nominate the new candidates for the next term. A Mayor can hold their role up to their tenure as decided by the users of that community based on the location. And all the token holders of that community will receive an alert before the expiry of the Mayor's term. If the Mayor has support from the members of that City community, the users can nominate the same person again.  
 
-It is up to the Residents to exercise their due deligenc and in case of any misconducts or abuse of the power by the Mayor, the Residents of the City community can call for impeachment of the Mayor. Again, the veracity of the information will be carried by the Residents of that City community.
-
+It is up to the Residents to exercise their due diligence in case of misconducts or abuse of the power by the Mayor. In such case the Residents of the City community can call for impeachment of the Mayor. Again, the veracity of the information will be carried by the Residents of that City community.
+{: .note }
 
 
 
