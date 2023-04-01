@@ -23,3 +23,10 @@ Now you maybe wondering how do Mayor occupy their roles ? Simple, the users insi
 
 But, what happens to the previous Mayor who held the Mayor's role, but their term is expiring ? It's the members of that City community who has the ability to Nominate the subsequent candidates for the next term. A Mayor can hold their role for up to 5 years before their term expires. If the Mayor has support from the members of that City community, the users can nominate the same person again.  
 
+### Elections for transactions 
+
+Elections app is directly linked with Treasury, Wallets and Roles apps. No other members besides the Admin / Creator / owner or any other members with designated role to access the treasury in a Shared community will be able to see the contents inside the Treasury. Hence, if any of the aforementioned users try to make a transaction specifically from the Treasury, the app automatically triggers an Election to all the **TOKENHOLDERS** inside that Shared community. 
+
+The users can either check the elections and vote for it from the alerts tab on the feed or if they wish to see the past elections, they can simply navigate to the Elections app and check for the details of all the past elections.  
+
+
