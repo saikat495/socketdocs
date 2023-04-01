@@ -15,25 +15,27 @@ Every community has set of Apps which are linked to each other and also acts in 
 
 ### What are the different apps on Socket network ? 
 
-Like mentioned above, all the apps are connected with each other. However, there are some apps which are exclusive for City communities only and certain Shared communities. This doesn't mean they are disconnected from each other. First let's see all the apps in Personal community : 
+Like mentioned above, all the apps are connected with each other. However, there are some apps which are exclusive for City communities only and certain Shared communities. This doesn't mean they are disconnected from each other. First let's see all the apps  
 
-- Tasks 
-- Conatacts
-- Communities
-- Calendar
-- Jobs
-- Wallets
-- Treasury 
-- Roles
-- Relationships
-- Identities
-- Dating
-- Checklists
-- Elections
-- Surveys
-- Settings
+| Apps list    |
+|:-------------|
+| Tasks        | 
+| Conatacts    | 
+| Communities  | 
+| Calendar     | 
+| Conatacts    |
+| Wallets      |
+| Treasury     |
+| Roles        |
+| Relationships|
+| Identities   |
+| Dating       |
+| Elections    |
+| Surveys      |
+| Settings     |
 
- Now let's take an in - depth look at each of these 
+
+Let's take an in - depth look at each of these 
 
 - Tasks : Tasks and roles app are interlinked with each other. The tasks app is a default app for all types of communities. The users can create projects and sub divide further tasks inside the projects and assign it to other users. All the tasks can be assigned and designated on hierarchy basis. Tasks app on Socket network is extremely different compared to other apps out there. On Socket network, the admin of the task can set duration within which the tasks has to be marked done. In case if a particular task is not marked as done before the timeline, it automatically changes the state of that task from in progress to delayed.
 
@@ -114,7 +116,7 @@ Users inside their Personal community will be able to control who can see which 
  
 Unlike Personal community, only the admin / Creator / Owner of the community will be able to access the Settings app. But, here's the catch, Settings inside a Shared community is linked to Elections app. Though settings is access based only, any changes made inside the settings app takes effect only after the users inside that Shared community **VOTES**. This is where we give the people to choose what is best for them and their community. 
 
-Now, if a user desires to enters a Shared community, the Admin / Creator / Owner having access to Settings app will have the power to set the restrictions or conditions before anyone can join that community. What this means is that, for any Shared community except the City community, at the time of joining, the users will have to go through an additional step where they agree to enter into that community with the required profile fields. 
+Now, if a user desires to enter a Shared community, the Admin / Creator / Owner having access to Settings app will have the power to set the restrictions or conditions before anyone can join that community. What this means is that, for any Shared community except the City community, at the time of joining, the users will have to go through an additional step where they agree to enter into that community with the required profile fields. 
 
 Some profile fields maybe Mandatory, Optional or Verified depending on the settings as chosen by the Admin / Creator / Owner of that community. It is entirely upto the users to enter or deny if they feel like they don't want to reveal certain information. Please note that it is entirely dependent on the type of community. 
 
