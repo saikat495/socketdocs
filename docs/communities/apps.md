@@ -94,25 +94,34 @@ Besides Guardians, no other relationships has the access to recover the account.
 
 - Checklists : Checklists act like a reminders app and the users can create lists and share it with their connections if they desire to do so. 
 
-- Elections : The core governance and the heart of Socket network lies in the Elections app. 
+- Elections : The core governance and the heart of Socket network lies in the Elections app. On Socket network users should note that not all voting are of the same type. Voting is based on each community type and there are 3 differnt types of voting i.e Quadratic, Conviction and Simple.  
 
-### How does Elections app work on Socket network ? 
+To help you understand better about Elections, we highly recommend you first read about roles section and the aforementioned Treasury, Wallets Roles apps.
+{: .note }
 
-To help you understand about Elections, we highly recommend you read about Treasury, Wallets and Roles apps.
+- Surveys : Surveys app is available on both Personal and Shared communities. Hosting Surveys can help understand the behaviour and preference pattern of users inside the Shared communities. Even so in Personal community, if the user has more number of connections, they can host surveys to learn more about the preferences of their connections. 
 
-Elections app consists of Elections, Nominations, Candidates, Votes and Results tabs respectively. 
+Users should note that Surveys and Elections are not the same. Elections have more weightage and Surveys are just casual questionaires. 
+{: .note }
 
-So, Elections app is directly linked with Treasury, Wallets and Roles apps. No other members besides the Admin / Creator or any other members with designated role to access the treasury in a Shared community will be able to see the contents inside the Treasury. Hence, if any of the aforementioned users try to make a transaction specifically from the Treasury, the app automatically triggers an Election to all the **TOKENHOLDERS** inside that Shared community. 
+- Settings : The crucial part of Privacy on Socket network is in Settings app. Settings app is available on both Personal and Shared communities as a default app. The functioning aspect of Settings app is qwite different, albeit available on both the Communities. 
 
-Essentially every user inside a GEO (City Community) is a token holder. When they enter their respective GEO communities, the users are awarded in the City coins, so they automatically become the **TOKENHOLDERS**. In all the City communities, there's a designated role for "Mayor" and only Mayors have access to the treasury. Any transactions coming from that City community's treasury will trigger an Election to all the members inside that City communities. 
+### How does Settings app work in Personal community ? 
 
-Now you maybe wondering how do Mayor occupy their roles ? Simple, the users inside the CIty community will Elect the Mayor to occupy that role. In fact, those users who brings the Mayor to Socket App will be rewarded in BUXX and that user who brought the Mayor will be recognised and rewarded in the that City community. In addition, they'll also increase their influence level in that GEO community.
+Users inside their Personal community will be able to control who can see which part of their profile information. Say for example, if the user wants to hide the photos inside their Personal community from being visible to everybody on Socket network, they can simply navigate to the settings app set their preference as to who can view. It's totally upto the user to hide or keep the fields visbible. 
 
-But, what happens to the previous Mayor who held the Mayor's role, but their term is expiring ? It's the members of that City community who has the ability to Nominate the subsequent candidates for the next term. A Mayor can hold their role for up to 5 years before their term expires. If the Mayor has support from the members of that City community, the users can nominate the same person again.  
+### How does Settings app work in Shared community ? 
+ 
+Unlike Personal community, only the admin / Creator / Owner of the community will be able to access the Settings app. But, here's the catch, Settings inside a Shared community is linked to Elections app. Though settings is access based only, any changes made inside the settings app takes effect only after the users inside that Shared community **VOTES**. This is where we give the people to choose what is best for them and their community. 
 
+Now, if a user desires to enters a Shared community, the Admin / Creator / Owner having access to Settings app will have the power to set the restrictions or conditions before anyone can join that community. What this means is that, for any Shared community except the City community, at the time of joining, the users will have to go through an additional step where they agree to enter into that community with the required profile fields. 
 
+Some profile fields maybe Mandatory, Optional or Verified depending on the settings as chosen by the Admin / Creator / Owner of that community. It is entirely upto the users to enter or deny if they feel like they don't want to reveal certain information. Please note that it is entirely dependent on the type of community. 
 
+SETTINGS IS A DEFAULT APP AND CANNOT BE DELETED IN EITHER OF THE COMMUNITIES.
+{: .note }
 
+**INSERT SCREENSHOTS AND VISUAL DEMOS HERE**
 
 
 
