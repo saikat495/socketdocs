@@ -31,7 +31,9 @@ On Socket network, Tokens represent :
 
 On Socket network, upon creating a community, a default Token gets created in the treasury automatically by the system. This means every city has a designated **CITY TOKEN**. All the users are rewarded by a small portion of City Tokens as soon as they enter their City Community for the first time. Again, not everybody has access to the main treasury & only certain roles inside the community will be able to see & access it. In the aforementioned part of this page we talked about governance. You maybe wondering if only certain people can see it, where's the so called governance aspect. That's where elections play a huge role. 
 
-Any transaction initiated by the person having access to the treasury will automatically trigger an election to all **TOKEN HOLDERS** inside that community. Also, the Tokens have different voting rights & powers. This also classfies the voting into different types (Quadratic, Conviction & Simple voting) based on the community type. 
+Any transaction initiated by the person having access to the treasury will automatically trigger an election to all **TOKEN HOLDERS** inside that community. On voting by all the token holders, based on the result of the election, the transaction is completed or declined.  
+
+Also, the Tokens have different voting rights & powers. This also classfies the voting into different types (Quadratic, Conviction & Simple voting) based on the community type. 
 
 
 ## How are roles occupied in City Community ?
