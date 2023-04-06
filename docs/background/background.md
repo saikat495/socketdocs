@@ -19,9 +19,9 @@ Hence, on Socket network, it's "Your device, Your Identities, Your Rules" that's
 
 You maybe wondering, why should I switch from the current social network and how is Socket network very different compared to others ?
 
-### Networks 
+## Networks 
 
-## What is a Network ? 
+### What is a Network ? 
 
 In layman terms, a Network is simply, a set of humans, with whom individuals would likely interact at intervals to support a given set of activities.
 
