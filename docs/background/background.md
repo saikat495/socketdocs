@@ -9,8 +9,8 @@ permalink: docs/background
 # Background
 {: .no_toc }
 
+{: .fs-26 .fw-100 }
 Socket network - A blockchain based decentralised social network built entirely on Trust and Faith 
-
 {: note.}
 
 
