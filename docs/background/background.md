@@ -17,21 +17,29 @@ No matter what you do on Socket network, you will have complete control over you
 Hence, on Socket network, it's "Your device, Your Identities, Your Rules" that's it.
 {: .note }
 
-You maybe wondering, why should I switch from the current social network and how is so Socket network very different compared to others ?
+You maybe wondering, why should I switch from the current social network and how is Socket network very different compared to others ?
 
 ### Networks 
 
 ## What is a Network ? 
 
-In layman terms, a Network is simply, a set of humans, with whom that individual would likely interact at intervals to support a given set of activities.
+In layman terms, a Network is simply, a set of humans, with whom individuals would likely interact at intervals to support a given set of activities.
 
 Furthermore, Socket being a network, we belive that every community is a network. We also believe in Values. So, if we couple Networks, Communities and Values together, without a doubt it will change the entire perspective of the current society. Not just any values, we're talking about similar values of multiple people inside one community. 
 
-There is so much potential so that, as more and more users join and become a part of Socket network, the world can be brought together and people from any nook and corner will be able to connect with other people.  
+There is so much potential so that, as more and more users join and become a part of Socket network, the world can be brought together and people from any nook and corner will be able to connect with other people. 
+
+With so many advance features, it definitely calls for robust trust mechanism. 
 
 ## Trust
 
+The whole of Socket network runs on Trust. Privacy is one aspect and then there's trust. Your account can be recovered by only those you trust the most in your circle, and who are your guardians. 
+
+To learn more **NAVIGATE TO GUARDIANS SECTION**
+
 ### Nature of Trust
+
+If you take a look around, Trust is something which is literally non existent in this world we live in. On Socket network, trust is everything and your network reflects a lot about you and with whom you associate with and your cicle. In this current system, scams are prominemt, albeit most of them claim to be genuine and legit. 
 
 ### Top Down Trust
 
