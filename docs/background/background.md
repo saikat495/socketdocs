@@ -45,7 +45,7 @@ If you take a look around, Trust is something which is literally non existent in
 
 ### Community Driven Trust
 
-## Use case 
+### Use case 
 
 To help you understand about community driven trust, let's quicky take a look at this scenario. 
 
