@@ -49,8 +49,7 @@ Centralized trust is broken. You cannot trust your government, institutions, not
 
 There is no such provision for trust in the current system and that is why most scams are prominent in any given aspect. If a community as a whole can vouch for something, then there's at least 80% chances that the veracity of certain piece of information has significantly more weightage. 
 
-In an environment like this, there's huge upsides and downsides. 
-
+This also compliments for the individual's influence level. The more ratings a person receives, the more trust and influence is gained. The weightage of influence and trust is dependent on who rates the users. Different roles inside the communities give different weightage for the influence level.
 
 To help you understand about community driven trust, let's quicky take a look at this scenario. 
 
