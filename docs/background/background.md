@@ -45,14 +45,18 @@ If you take a look around, Trust is something which is literally non existent in
 
 ### Community Driven Trust
 
-### Use case 
+Centralized trust is broken. You cannot trust your government, institutions, not even your money. Big tech is abusing its monopoly power. On Socket network it's all about connecting the world with Transparency, Trust and Truth with absolute Privacy. 
 
 To help you understand about community driven trust, let's quicky take a look at this scenario. 
+
+### Use case 
 
 Please note, this may not be accurate 100% of the times, but not all people are bad actors. 
 {: .note }
 
-A invites B to join a private community X. Now that A is an active participant in the X community and everyone in X community knows what A's background is and also A's past history. Considering this, B is connected to A, hence B's authenticity and legitmacy can be assessed based on A. If A is belived to be a good actor, obviously his circle will more or less comprise of good actors. This may sound a bit intriguing and unfair, but ascertaining legitimacy on Socket network is not dependent soley in this manner. In order for B to become a part of community X will still be based on the votes by all the members of that community, albiet B is connected to A.  
+A invites B to join a private community X. Now that A is an active participant in the X community and everyone in X community knows what A's background is and also A's past history. Considering this, B is connected to A, hence B's authenticity and legitmacy can be assessed based on A. If A is belived to be a good actor, obviously his circle will more or less comprise of good actors. This may sound a bit intriguing and unfair, but ascertaining legitimacy on Socket network is not dependent soley in this manner. In order for B to become a part of community X will still be based on the votes by all the members of that community, albiet B is connected to A. 
+
+There is no such provision for trust in the current system and that is why most scams are prominent in any given aspect. If a community as a whole can vouch for something, then there's at least 80% chances that the veracity of certain piece of information has significantly more weightage.
 
 
 ## Identity
