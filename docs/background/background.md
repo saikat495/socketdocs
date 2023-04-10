@@ -25,7 +25,7 @@ You maybe wondering, why should I switch from the current social network and how
 
 In layman terms, a Network is simply, a set of humans, with whom individuals would likely interact at intervals to support a given set of activities.
 
-Furthermore, Socket being a network, we belive that every community is a network. We also believe in Values. So, if we couple Networks, Communities and Values together, without a doubt it will change the entire perspective of the current society. Not just any values, we're talking about similar values of multiple people inside one community. 
+Furthermore, Socket being a network, every community is a network and every community has set of Values. So, if we couple Networks, Communities and Values together, without a doubt it will change the entire perspective of the current society. Not just any values, we're talking about similar values of multiple people inside one community. 
 
 There is so much potential so that, as more and more users join and become a part of Socket network, the world can be brought together and people from any nook and corner will be able to connect with other people. 
 
