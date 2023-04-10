@@ -45,4 +45,14 @@ If you take a look around, Trust is something which is literally non existent in
 
 ### Community Driven Trust
 
+## Use case 
+
+To help you understand about community driven trust, let's quicky take a look at this scenario. 
+
+Please note, this may not be accurate 100% of the times, but not all people are bad actors. 
+{: .note }
+
+A invites B to join a private community X. Now that A is an active participant in the X community and everyone in X community knows what A's background is and also A's past history. Considering this, B is connected to A, hence B's authenticity and legitmacy can be assessed based on A. If A is belived to be a good actor, obviously his circle will more or less comprise of good actors. This may sound a bit intriguing and unfair, but ascertaining legitimacy on Socket network is not dependent soley in this manner. In order for B to become a part of community X will still be based on the votes by all the members of that community, albiet B is connected to A.  
+
+
 ## Identity
