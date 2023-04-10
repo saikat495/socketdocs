@@ -47,16 +47,41 @@ If you take a look around, Trust is something which is literally non existent in
 
 Centralized trust is broken. You cannot trust your government, institutions, not even your money. Big tech is abusing its monopoly power. On Socket network it's all about connecting the world with Transparency, Trust and Truth with absolute Privacy. 
 
-To help you understand about community driven trust, let's quicky take a look at this scenario. 
+There is no such provision for trust in the current system and that is why most scams are prominent in any given aspect. If a community as a whole can vouch for something, then there's at least 80% chances that the veracity of certain piece of information has significantly more weightage. 
 
-### Use case 
+In an environment like this, there's huge upsides and downsides. 
+
+
+To help you understand about community driven trust, let's quicky take a look at this scenario. 
 
 Please note, this may not be accurate 100% of the times, but not all people are bad actors. 
 {: .note }
 
-A invites B to join a private community X. Now that A is an active participant in the X community and everyone in X community knows what A's background is and also A's past history. Considering this, B is connected to A, hence B's authenticity and legitmacy can be assessed based on A. If A is belived to be a good actor, obviously his circle will more or less comprise of good actors. This may sound a bit intriguing and unfair, but ascertaining legitimacy on Socket network is not dependent soley in this manner. In order for B to become a part of community X will still be based on the votes by all the members of that community, albiet B is connected to A. 
+### Use case 1 
 
-There is no such provision for trust in the current system and that is why most scams are prominent in any given aspect. If a community as a whole can vouch for something, then there's at least 80% chances that the veracity of certain piece of information has significantly more weightage.
+The recruiter of a company can ascertain the legitimacy of the candidates just by verifying the ratings awarded to the employees and the fact that the candidate was a part of the company's community. 
+
+The users should note that, in case of jobs, every company community is a private community regardless of the type of the company and only employees can enter the company's community and gain access. Any other person who is not an employee can only view that community's profile page and cannot enter inside.
+{: .note }
+
+In this current system, there's no real provision to ascertain the legitimacy of certain information. On Socket network, we've aimed to smoothen and make peoples' life much easier.  
+
+### Use case 2 
+
+A invites B to join a private community X. Now that A is an active participant in the X community and everyone in X community knows what A's background is and also A's past history. Considering this, B is connected to A, hence B's authenticity and legitmacy can be assessed based on A. If A is belived to be a good actor, obviously his circle will more or less comprise of good actors. This may sound a bit intriguing and unfair, but ascertaining legitimacy on Socket network is not dependent soley in this manner. In order for B to become a part of community X will still be based on the votes by all the members of that community, albiet B is connected to A. 
 
 
 ## Identity
+
+Identities, settings and roles are very much interlinked. Settings and roles are linked so much so that, without them identities have no weightage. 
+{: .note }
+
+An individual's username is the identity on Socket network. Your Identity is safeguarded no matter what community you join. Since Socket is community and network driven environment, the users are free to enter any communities using their desired identity. 
+
+However, the users must note that for certain types of communtiies, they can only enter with their main profile username. Those communities would be Business, Jobs, Professional to name a few. Again, it's entirely upto the user to agree upon giving the details to enter the community.   
+
+
+
+
+
+
