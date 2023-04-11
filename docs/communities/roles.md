@@ -78,6 +78,8 @@ It is up to the Residents to exercise their due diligence in case of misconducts
 {: .note }
 
 
+### In case of a community name change 
+
 
 
 
