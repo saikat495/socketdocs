@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Apps
+title: Elections
 parent: Governance
 nav_order: 2
 has_children: true
