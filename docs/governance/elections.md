@@ -20,7 +20,7 @@ Each Election is a chain. Eligibility of voters is determined by subscriptions. 
 
 ## Types of Elections
 
-### Simple Elecions : 
+### Simple Elections : 
 
 Here the election is triggered by the creator/who has requested for a transaction from treasury, for a modification of community name or for installation of an App inside that shared community.  Each person owning the community token gets a chance to cast his vote on the subject/request/issue and the absolute majority wins the election and the decission is made according to the favours of the majorily. 
 
@@ -43,7 +43,19 @@ This type of election is necessary to decide on multiple issues at at time. Each
 
 If there is election for 4 council members and there are 6 contestants, then each voter gets 4 votes and each vote has a face value of 1/4 points. The voter can opt to put all the votes on only one person or one or more persons, maximum being one vote for each person of his choice. Finally, the votes earned by each candidate is cumulated and divied by 1/4 to get his position in the winning scale. The top highest 4 candidates are declared as the winners and elected to be the council members for the said term. 
 
-### uadratic Elections
+### Quadratic Elections
+
+This is similar to cumulative election as above but the face value of the second and consecutive votes given to the same person/issue/proposal will be calculated by the quadratic factor as given below.
+
+**cost to the voter = (number of votes)2.**
+
+### Vote pricing example
+
+Number of votes cost           "Vote Credit" Cost
+          1                          	1
+          2	                          4
+          3                           9
+          4                           16
 
 **Use Case:** 
 
