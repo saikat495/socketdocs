@@ -41,6 +41,8 @@ This type of election is necessary to decide on multiple issues at at time. Each
 
 **Use Case:**
 
+If there is election for 4 council members and there are 6 contestants, then each voter gets 4 votes and each vote has a face value of 1/4 points. The voter can opt to put all the votes on only one person or one or more persons, maximum being one vote for each person of his choice. Finally, the votes earned by each candidate is cumulated and divied by 1/4 to get his position in the winning scale. The top highest 4 candidates are declared as the winners and elected to be the council members for the said term. 
+
 ### uadratic Elections
 
 **Use Case:** 
