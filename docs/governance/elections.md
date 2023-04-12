@@ -51,11 +51,12 @@ This is similar to cumulative election as above but the face value of the second
 
 ### Vote pricing example
 
-Number of votes cost           "Vote Credit" Cost
-          1                          	1
-          2	                          4
-          3                           9
-          4                           16
+| Number of votes cost | "Vote Credit" Cost | 
+|:-------------|:------------------|
+| 1            | 1                 | 
+| 2            | 4                 | 
+| 3            | 9                 | 
+| 4            | 16                |
 
 **Use Case:** 
 
