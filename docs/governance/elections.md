@@ -20,13 +20,18 @@ Each Election is a chain. Eligibility of voters is determined by subscriptions. 
 
 ##Types of Elections
 
-###Simple Elecions : Here the election is triggered by the creator/who has requested for a transaction from treasury, for a modification of community name or for installation of an App inside that shared community.
+###Simple Elecions : 
 
-Use Case: 
+Here the election is triggered by the creator/who has requested for a transaction from treasury, for a modification of community name or for installation of an App inside that shared community.  Each person owning the community token gets a chance to cast his vote on the subject/request/issue and the absolute majority wins the election and the decission is made according to the favours of the majorily. 
+
+Use Case: Change of name of the community which is put to simple vote amongst the members of the community and if the majority of the member voters favour for the change of the community name, then it will be done accordingly.
 
 ###Conviction Elections
 
+This type of election is required to decide on one or more decisions to be made from many proposals. Each voter will be given 100 points (this number is given for easy understanding) and the voter distributes the given 100 points amonst the proposals accoding to his priority. Finally each proposal's acquired priority points are cumulated and listed from the highest points earned to lowest earned points. This makes it easier for the community to go with one or more proposals starting from the highest points earned proposal.
 
+The longer you hold a preference for a certain proposal, the more that proposal gets your conviction. Your conviction grows according to a half life decay curve, giving more weight to that preference over time, up to a certain limit. If you decide to switch your preference to a new proposal, your conviction drains out of the previous proposal against the new proposal which you support. 
+{: .note }
 
 Use Case: 
 
