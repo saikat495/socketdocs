@@ -2,7 +2,7 @@
 layout: default
 title: Elections
 parent: Governance
-nav_order: 2
+nav_order: 1
 has_children: true
 permalink: docs/governance/elections
 ---
