@@ -10,7 +10,7 @@ permalink: docs/oracle
 {: .no_toc }
 
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300" height="420" viewBox="0 0 1125 2436" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="280" height="380" viewBox="0 0 1125 2436" xml:space="preserve">
 <desc>Created with Fabric.js 3.5.0</desc>
 <defs>
 </defs>
