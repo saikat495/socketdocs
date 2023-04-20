@@ -49,7 +49,7 @@ The Quadratic voting requires more complex calculations than the regular rank ch
 
 **Advantages**
 
-Weighting votes quadratically can be advantageous in protecticn minority advocates, Balancing power, or Capturing community sentiments. 
+Weighting votes quadratically can be advantageous in protecticn minority advocates, Balancing power, and/or Capturing community sentiments. 
 
 **Protecting minority advocates**
 
