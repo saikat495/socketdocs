@@ -34,6 +34,6 @@ On Socket network, just like every other platform, users can carry on fiat trans
 
 In the current system, the main problem is that none of us can actually see how and what exactly is the tax money being utilised for. Imagine a world where you pay your taxes to the government and then you as a taxpayer, can actually choose where you want that tax money to be used for in the society. Wouldn't that be awesome to actually direct where your money should go or choose a particular cause for which you'd want your hard earned money to reach in the society ?  
 
-
+Socket being a blockchain based social network which is built on top of trust and privacy, we've aimed and designed it such that no person in the society will have any concerns over corrupted politicians misusing the funds. 
 
 
