@@ -47,10 +47,26 @@ If there is election for 4 council members and there are 6 contestants, then eac
 
 The Quadratic voting requires more complex calculations than the regular rank choice voting. With the right interface, it is an intuitive and simple-to-use but a profound mechanism. 
 
+**Advantages**
+
+Weighting votes quadratically can be advantageous in protecticn minority advocates, Balancing power, or Capturing community sentiments. 
+
+**Protecting minority advocates**
+
+Quadratic voting helps in addressing issues where there may be an opinionated and passionate minority whose interests are ignored by an indifferent majority. Quadratic votine allows minority interests to be recognised and better balanced.
+
+**Balancing power**
+
+Quadratic voting helps in balancing power among the communities through a large spread in voting power. Compared to simple voting, the Quadratic voting can be better in recognizing the outsized voting power of tycoons, while balancing their weight in ways that can feel more democratic. The Quadratic voting can better recognize stakeholders that are more active or invested.
+
+**Capturing community sentiment**
+
+In using the simple voting on elections with several choices, sometimes the results may appear close to each other, but there may be significant differences in understanding and convicting the choices. The Quadratic voting weighs the voter's passion and helps in giving a more accurate result based on the community sentiment.
+
 
 **Use Case:** 
 
-For Example, Each voter is given a budget of 100 “credits”. Each voter allocates the credits among all available options as per his/her choices. The 100 credits could all go towards one option, or the credits could also be split among all choices and weighted based on the preferences.
+In a multi choice election (more than two options), each voter is given a budget of 100 “credits”. Each voter allocates the credits among all available options as per his/her choices. The 100 credits could all go towards one option, or the credits could also be split among all choices and weighted based on the preferences.
 
 The counted votes are the square root of the “credits” allocated to each choice. 
 
