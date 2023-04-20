@@ -45,18 +45,40 @@ If there is election for 4 council members and there are 6 contestants, then eac
 
 ### Quadratic Elections
 
-This is similar to cumulative election as above but the face value of the second and consecutive votes given to the same person/issue/proposal will be calculated by the quadratic factor as given below.
+The Quadratic voting requires more complex calculations than the regular rank choice voting. With the right interface, it is an intuitive and simple-to-use but a profound mechanism. 
 
-**cost to the voter = (number of votes)2.**
+
+**Use Case:** 
+
+For Example, Each voter is given a budget of 100 “credits”. Each voter allocates the credits among all available options as per his/her choices. The 100 credits could all go towards one option, or the credits could also be split among all choices and weighted based on the preferences.
+
+The counted votes are the square root of the “credits” allocated to each choice. 
+
+   **cost to the voter = (number of votes)2.**
+
+This means that 100 credits applied to one choice are 10 votes. 25 credits applied to one choice are 5 votes. 4 credits applied to a choice are 2 votes, and so on as shown in the table below.
+
+
 
 ### Vote pricing example
 
-| Number of votes cost | "Vote Credit" Cost | 
-|:--------------- |:------------------|
-|    1            |    1              | 
-|    2            |    4              | 
-|    3            |    9              | 
-|    4            |    16             |
+| Number of votes cost |  "Credits" applied | 
+|--------------------- |--------------------|
+|         1            |          1         | 
+|         2            |          4         | 
+|         3            |          9         | 
+|         4            |         16         |
+|         5            |         25         | 
+|         6            |         36         | 
+|         7            |         49         | 
+|         8            |         64         |
+|         9            |         81         | 
+|        10            |        100         |
 
-**Use Case:** 
+
+
+
+
+
+
 
