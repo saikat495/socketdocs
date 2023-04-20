@@ -61,7 +61,7 @@ Quadratic voting helps in balancing power among the communities through a large 
 
 **Capturing community sentiment**
 
-In using the simple voting on elections with several choices, sometimes the results may appear close to each other, but there may be significant differences in understanding and convicting the choices. The Quadratic voting weighs the voter's passion and helps in giving a more accurate result based on the community sentiment.
+In using the simple voting on elections with several choices, sometimes the results may appear close to each other, but there may be significant differences in understanding and convicting to the choices. The Quadratic voting weighs the voter's passion and helps in giving a more accurate result based on the community sentiment.
 
 
 **Use Case:** 
