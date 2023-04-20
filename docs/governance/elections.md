@@ -62,7 +62,7 @@ This means that 100 credits applied to one choice are 10 votes. 25 credits appli
 
 ### Vote pricing example
 
-| Number of votes cost |  "Credits" applied | 
+| Number of votes      |  "Credits" applied | 
 |--------------------- |--------------------|
 |         1            |          1         | 
 |         2            |          4         | 
