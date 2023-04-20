@@ -22,3 +22,58 @@ On Socket network, a transaction can be peer to peer or inside a shared communit
 ## What is the accounting convention on Socket network ? 
 
 On Socket network, every transaction is audited on the basis of Quadruple entry accounting. 
+
+## Types of Financial instruments 
+
+Let's see the types of financial instruments and then we'll go in dept in what they are and how they'll work on Socket network. 
+
+| Financial instruments|
+|:-------------|
+| Tokens       | 
+| ICO          | 
+| Derivatives  |
+| Futures      |
+| NFT          |
+| Notary       | 
+| Escrow       |
+| Bonds        |
+| Warrants     |
+| Venture Funds|
+| Hedge Funds  |
+| ETFs         |
+| Mutual Funds |
+| SPACs        |
+| Mergers & Acquisitions |
+| Disinvestment & Spinoffs|
+| Banking      |      
+| Mortgages    | 
+| Lease        |
+| Rental       |
+| Currency     |
+| Dutch Auction|
+| Insurance    |
+| Dividend Payments |
+| Gift Tokens  | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
