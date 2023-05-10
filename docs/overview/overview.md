@@ -32,8 +32,6 @@ Blockchain is a distributed database or a ledger which is shared among the compu
 
 Unlike centralised model, blockchain technology eliminates risk of data being stored with one authority. Blockchain being a decentralised model uses data transferring on ad hoc basis & distributed networking.
 
-
-
 ## Network
 
 Current social networks have eroded trust in society. We believe, the right to privacy is absolute. On Socket, you can connect the world with Transparency, Trust, and Truth with absolute Privacy through your device, your safety, your trust, and your rules. Networks are built through communities based on these values.
