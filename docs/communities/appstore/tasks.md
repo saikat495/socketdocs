@@ -6,11 +6,11 @@ The Tasks app is embedded with the *Project Management* feature in it. Also, the
 
 Users are motivated by incentivising in Buxx for finishing the tasks within the stipulated time span. Every task comes with different tiers of rewards based on its priority and complexity. The progress of each task can be tracked right from the assignee (owner) of the task to his/her superiors/higherups in the orderof line of reporting. Also, the progress of the task/ the project can be viewed on the analytics charts and/or graphs, and the users can compare their performance with each others in their team. This helps in creating a competitiveness amongst the team members, teams, and departments, thereby motivating them to perform better. 
 
-###Project management from Standalone user point of view :  
+### Project management from Standalone user point of view :  
 
 Under the standalone project (or any standalone task), the tasks are not visible to anyone else other than the owner of the tasks. For example, the self assigned private tasks. 
 
-###Project management from all the users in one sprint point of view:
+### Project management from all the users in one sprint point of view:
 
 Here, in a sprint, all the tasks are visible to all the users of that particular sprint. Each member of the sprint can see which task has been assigned to whom and how many are in-progress, done, or pending to work on. 
 
