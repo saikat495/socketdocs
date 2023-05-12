@@ -8,4 +8,4 @@ The Dating App is useful in match making based on demographics and interests/req
 
 Privacy and Confidentiality is the atmost feature in dating app on socket network. One can hide his real identity by using a dummy / alias name, but socket will allow using a alias name only when the person has confirmed real identity on socket. Any user can hide or opt to not to reveal his age, address, phone number, work details etc, but cannot give false information on these already confirmed data fields during registratin to Socket. 
 
-## Verification process of profiles for dating app
+### Verification process of profiles for dating app
