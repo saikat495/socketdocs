@@ -60,4 +60,7 @@ Privacy, Safety and Trust are our priorities. On Socket, you own your data, we c
 - Transparancy
 - Liquidity
 - Jurisdiction
+- Trinity of vocal minority 
+- Good vs Evil
+- Proof of graph
 
