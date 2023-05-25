@@ -21,39 +21,13 @@ On Socket network, a transaction can be peer to peer or inside a shared communit
 
 ## What is the accounting convention on Socket network ? 
 
-On Socket network, every transaction is audited on the basis of Quadruple entry accounting. 
+On Socket network, every transaction is audited on the basis of Quadruple entry accounting.   
 
-## Types of Financial instruments 
+## Tokens 
 
-Let's see the types of financial instruments and then we'll go in dept in what they are and how they'll work on Socket network. 
+The whole of Socket network is run on tokens. The source of tokens supply is from Socket foundation. In fact, Socket foundation is the reserve bank of all the tokens which are in circulation on Socket network. 
 
-| Financial instruments|
-|:-------------|
-| Tokens       | 
-| ICO          | 
-| Derivatives  |
-| Futures      |
-| NFT          |
-| Notary       | 
-| Escrow       |
-| Bonds        |
-| Warrants     |
-| Venture Funds|
-| Hedge Funds  |
-| ETFs         |
-| Mutual Funds |
-| SPACs        |
-| Mergers & Acquisitions |
-| Disinvestment & Spinoffs|
-| Banking      |      
-| Mortgages    | 
-| Lease        |
-| Rental       |
-| Currency     |
-| Dutch Auction|
-| Insurance    |
-| Dividend Payments |
-| Gift Tokens  | 
+Like we've spoken in the previous sections, every community has Token(s). Community tokens consists of votes and no votes. And as for the voting tokens, the votes associated with them are based on each class of tokens.	Each token can have between 0 to 10 votes. 
 
 
 
