@@ -9,30 +9,31 @@ permalink: docs/identity
 # Identity
 {: .no_toc }
 
+## Introduction 
 
+In this section of the documentation we talk about how identities are associated with each person.
 
 {: .fs-26 .fw-100 } 
-Identity is an unique set of characters of an individual or a community through wihich the person or the community is identified/recognised.
+On Socket network, identity of a Person is a unique set of character and that Identity is what gives the narrative to a Person. 
 {: .note }
 
+Identity is the unique individuality of the person. This means it shows how they view themself as compared to other people based on the attributes / characteristics which identifies them in standing out from other individuals.
 
-The identity can be based on three attributes, 
-
-The identity of an individual or a community is through wihich the person or the community is identified/recognised. The identity is based on three attributes, 
+Every person's Identity have 2 attributes :
 
 *1) Inherrited attributes :* Height, Weight, colour etc of an individual or the size of the office space etc.,
 
-*2) Cumulative attributes :* Here, the acquired attributes like the total number of likes, the buying / shopping history of an individual etc., and 
+*2) Cumulated attributes :*  Here the attribute of an individual or of a community is added up over a period of time. 
 
-*3) Cumulated attributes :*  Here the attribute of an individual or of a community is added up over a period of time. 
+### Profiles and identities
 
-In general, identity often refers to a person's / a community's unique individuality, meaning how they view themself as compared to other people/ community, based on the attributes / characteristics which identifies them in standing out from other individuals or communities. 
+Profiles and identities are closely linked to each other on Socket network. You identity comes from your profile information. 
 
 It consists of three types of fields namely, 1) Mandatory Field, Optional Field and Verified Field. 
 
-**1) Mandatory Field :** This is a must fill field and one has to fill the details mandatorily.  This is essential to sign up and enter the Socket app. Example, Name, phone number, etc.
+**1) Mandatory Field :** This is a must fill field and one has to fill the details mandatorily.  
 
-**2) Optional Field :**  This is an optional field and one can choose not fill or give any details in this field. This is not mandatory to fill these fields to sign up or enter the Socket app. Education, experience, address, email ID etc.,
+**2) Optional Field :**  This is an optional field and one can choose not fill or give any details in this field. 
 
 **3) Verified Field :**   This is very important field. This can be Mandatory or optional field, but is verified by the concerned person, department, of company voching for the authenticity of the information given here. Example, the experience as shown here can be verified by the concerned previous employer, the education shown here could be verified by the University / college itself to authenticate the education level, the email ID could be verified by sending an OTP to the declared email and verifying the same for confirmation. This saves the time for verification for many apps. For example, for a job seeker, when applied to the vacancy, the jpb provider can consider the verified fields like education, or experience as authenticated ones and no further verification would be required.
 
