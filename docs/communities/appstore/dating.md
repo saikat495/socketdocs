@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Dating
-parent: Appstore
+parent: App store
 nav_order: 1
 has_children: true
-permalink: docs/appstore/dating
+permalink: docs/AppsStore/dating
 ---
 
 ## Dating App
