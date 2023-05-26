@@ -1,3 +1,12 @@
+---
+layout: default
+title: Dating
+parent: Appstore
+nav_order: 1
+has_children: true
+permalink: docs/communities/roles
+---
+
 ## Dating App
 
 ### Overall View
