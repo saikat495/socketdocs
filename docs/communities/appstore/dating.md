@@ -4,7 +4,7 @@ title: Dating
 parent: App store
 nav_order: 1
 has_children: true
-permalink: docs/AppsStore/dating
+permalink: docs/AppsStore/Dating
 ---
 
 ## Dating App
