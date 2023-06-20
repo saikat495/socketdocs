@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Dating
-parent: App store
-nav_order: 1
+title: Roles
+parent: Apps Store
+nav_order: 3
 has_children: true
-permalink: docs/AppsStore/Dating
+permalink: docs/communities/appsstore/dating
 ---
 
 ## Dating App
