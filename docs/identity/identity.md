@@ -19,12 +19,6 @@ On Socket network, identity of a Person is a unique set of character and that Id
 
 Identity is the unique individuality of the person. This means it shows how they view themself as compared to other people based on the attributes / characteristics which identifies them in standing out from other individuals.
 
-Every person's Identity have 2 attributes :
-
-*1) Inherrited attributes :* Height, Weight, colour etc of an individual or the size of the office space etc.,
-
-*2) Cumulated attributes :*  Here the attribute of an individual or of a community is added up over a period of time. 
-
 ### Profiles and identities
 
 Profiles and identities are closely linked to each other on Socket network. You identity comes from your profile information. 
