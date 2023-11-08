@@ -62,6 +62,16 @@ We live in a world where literally everything is disconnected and so are the app
 
 On Socket network, we use smart matchmaking algorithm to help people discover communities and other users with similar values and also give them exactly what they are looking for based on the **Demographics**. The technology adopted on Socket network will help users in building a unique relationship with all the places they travel and people they meet.
 
+### What is a DAO ?
+
+A DAO is a "Decentralized Autonomous Organization" run with smart contracts on a public blockchain. 'Decentralization' means a community free from the central authority, but is controlled unitedly by all the members of the community or organization, 'Autonomous' means a self governing body based on smart contracts. ie., self governing for token holders with automatic elections in the community for every proposal, and 'Organization' means a collective group of people coordinating to reach a common/shared interest/objectives.
+
+### How is the DAO different in Socket ?
+
+A DAO is based on trust and decision of the members of the organization. Normally, the DAO is a self governing body based on smart contracts on a public blockchain. But in Socket, it is slightly different as it runs based on **rules** but on a single public blockchain making it light weight and more effective. As the 'rules' play an important role here, every core decision or change is backed by an **'election'**, which every token holder member will vote for, and decide what they support and what they don't. in other words, the **Rules** are in the form of smart contract, and just set custom rules and the elections trigger to the token holders automatically.
+
+
+
 
 
 
